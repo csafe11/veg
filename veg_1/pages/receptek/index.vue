@@ -11,7 +11,7 @@
       <div class="flex">
         <div class="w-full bg-white border border-gray-200 rounded-lg shadow-lg dark:bg-gray-800 dark:border-gray-700 flex flex-col">
           <a href="#">
-            <NuxtImg class="aspect-3/2 object-cover w-full" src="cover8.jpg" />
+            <NuxtImg class="aspect-3/2 object-cover w-full" src="/cover8.jpg" />
           </a>
           <div class="p-5 flex flex-col flex-grow">
             <a href="#">
@@ -41,7 +41,7 @@
       <div class="flex">
         <div class="w-full bg-white border border-gray-200 rounded-lg shadow-lg dark:bg-gray-800 dark:border-gray-700 flex flex-col">
         
-            <NuxtImg class="aspect-3/2 object-cover w-full" src="cover8.jpg" />
+            <NuxtImg class="aspect-3/2 object-cover w-full" src="/cover8.jpg" />
          
           <div class="p-5 flex flex-col flex-grow">
           
