@@ -2,9 +2,8 @@
 
 <template>
  <div class="columns-3">
-    <NuxtImg class="aspect-3/2"  src="cover1.jpg" />
-<NuxtImg class="aspect-square" src="cover2.jpg" />
-<NuxtImg class="aspect-square" src="cover3.jpg" />
+<NuxtLink to="/receptek">Receptek</NuxtLink>
+<NuxtLink to="/about">About</NuxtLink>
 
  
 
@@ -14,6 +13,8 @@
 
 
 <script>
+import { NuxtLink } from '#components';
+
 
 </script>
 
