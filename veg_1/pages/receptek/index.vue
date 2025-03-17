@@ -41,7 +41,7 @@
       <div class="flex">
         <div class="w-full bg-white border border-gray-200 rounded-lg shadow-lg dark:bg-gray-800 dark:border-gray-700 flex flex-col">
         
-            <img class="aspect-3/2 object-cover w-full" src="public/cover8.jpg" />
+            <img class="aspect-3/2 object-cover w-full" src="/public/cover7.jpg" />
          
           <div class="p-5 flex flex-col flex-grow">
           
