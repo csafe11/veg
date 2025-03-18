@@ -41,7 +41,7 @@
       <div class="flex">
         <div class="w-full bg-white border border-gray-200 rounded-lg shadow-lg dark:bg-gray-800 dark:border-gray-700 flex flex-col">
         
-            <img class="aspect-3/2 object-cover w-full" src="/public/cover7.jpg" alt="cover7" />
+            <img class="aspect-3/2 object-cover w-full" src="/public/turmixsuti.jpg" alt="cover7" />
          
           <div class="p-5 flex flex-col flex-grow">
           
@@ -97,7 +97,7 @@
         </div>
       </div>
     </div>
-    <NuxtImg class="aspect-3/2 object-cover w-full" src="cover8.jpg" />
+    <NuxtImg class="aspect-3/2 object-cover w-full" src="turmixsuti.jpg" />
   </div>
   
 
