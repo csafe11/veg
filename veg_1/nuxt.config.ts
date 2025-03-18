@@ -12,5 +12,12 @@ export default defineNuxtConfig({
   },
 
   modules: ["@nuxt/image"],
-  
+  site: {
+    url: "https://dazzling-torte-e51608.netlify.app",
+    trailingSlash: true,
+    excludeAppSources: true,
+    name: "Egészséges Élet",
+    description: "Majdnem vegán receptek",
+    defaultLocale: "hu", // not needed if you have @nuxtjs/i18n installed
+  },
 });
